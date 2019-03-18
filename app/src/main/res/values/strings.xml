@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeographicInformationApp</string>
+
+    <string name="button_text">Añadir foto</string>
+    <string name="toolButton1">Regresar</string>
+    <string name="toolButton2">Reportar</string>
+    <string name="buttonName">ToolBar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
